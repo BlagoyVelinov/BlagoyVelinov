@@ -57,8 +57,6 @@ Passionate Software Engineer with over two years of development experience, dedi
 
 <details>
     <summary><b>📈 Top Languages</b></summary>
-     <br />
     <a href="https://github.com/BlagoyVelinov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=BlagoyVelinov&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
-    <br />
 </details>
